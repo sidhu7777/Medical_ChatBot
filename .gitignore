@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+medicalbot/
 
 # Spyder project settings
 .spyderproject
