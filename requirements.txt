@@ -3,9 +3,19 @@ langchain
 flask
 pypdf
 python-dotenv
-pinecone[grpc]
+pinecone[grpc]==5.0.1
 langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
+openai==1.66.5
+scikit-learn==1.6.1
+scipy==1.15.2
+numpy==1.26.4
+torch==2.6.0
+torchvision==0.21.0
+tiktoken==0.9.0
+transformers==4.31.0
+requests==2.32.3
+urllib3==2.3.0
 -e .
