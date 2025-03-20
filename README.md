@@ -77,12 +77,18 @@ The chatbot will be available at **http://127.0.0.1:5000**.
 
 ## Project Workflow
 
+![alt text](image.png)
+
 ## Future Enhancements
 
 - **AWS Deployment** – Deploying the chatbot using AWS services (Lambda, API Gateway, ECS).
 - **Fine-tuning on Medical Data** – Training the model with medical-specific datasets for better accuracy.
 - **Voice Assistant Integration** – Adding speech-to-text functionality.
 - **Multi-language Support** – Enhancing accessibility by supporting multiple languages.
+
+## Chatbot Interface
+
+![alt text](Medical_ChatBot.PNG)
 
 ## License
 
