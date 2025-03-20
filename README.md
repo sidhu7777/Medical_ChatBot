@@ -1,18 +1,16 @@
----
+# Medical Chatbot - Generative AI Project
 
-#  Medical Chatbot - Generative AI Project
+## Overview
 
-##  Overview
 This project is a **Medical Assistance Chatbot** that provides answers to medical-related queries using **Generative AI**. It processes and understands user queries through **natural language processing (NLP)** and retrieves relevant medical information.
 
 The project is built with:
+
 - **Flask** for the web interface and API
 - **Pinecone** for vector-based retrieval
 - **LangChain** for handling LLM integrations
 - **OpenAI API** for generating responses
 - **Sentence Transformers** for embeddings
-
----
 
 ## Project Structure
 
@@ -43,8 +41,6 @@ Medical_Chatbot/
 │── store_index.py
 │── template.py
 ```
-
----
 
 ## Setup Instructions
 
@@ -79,11 +75,7 @@ python app.py
 
 The chatbot will be available at **http://127.0.0.1:5000**.
 
----
-
 ## Project Workflow
-
----
 
 ## Future Enhancements
 
@@ -92,13 +84,9 @@ The chatbot will be available at **http://127.0.0.1:5000**.
 - **Voice Assistant Integration** – Adding speech-to-text functionality.
 - **Multi-language Support** – Enhancing accessibility by supporting multiple languages.
 
----
-
 ## License
 
 This project is licensed under the **MIT License**.
-
----
 
 ## About Me
 
