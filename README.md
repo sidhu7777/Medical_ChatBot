@@ -77,7 +77,8 @@ The chatbot will be available at **http://127.0.0.1:5000**.
 
 ## Project Workflow
 
-![alt text](image.png)
+![Workflow Diagram](https://raw.githubusercontent.com/sidhu7777/Medical_ChatBot/main/images/image.png)
+
 
 ## Future Enhancements
 
