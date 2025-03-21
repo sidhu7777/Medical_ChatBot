@@ -86,9 +86,11 @@ The chatbot will be available at **http://127.0.0.1:5000**.
 - **Voice Assistant Integration** – Adding speech-to-text functionality.
 - **Multi-language Support** – Enhancing accessibility by supporting multiple languages.
 
+- 
 ## Chatbot Interface
 
-https://github.com/sidhu7777/Medical_ChatBot/blob/main/images/Medical_ChatBot.PNG
+![Chatbot UI](https://raw.githubusercontent.com/sidhu7777/Medical_ChatBot/main/images/Medical_ChatBot.PNG)
+
 ## License
 
 This project is licensed under the **MIT License**.
