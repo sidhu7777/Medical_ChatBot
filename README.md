@@ -88,7 +88,7 @@ The chatbot will be available at **http://127.0.0.1:5000**.
 
 ## Chatbot Interface
 
-![alt text](Medical_ChatBot.PNG)
+[![alt text](Medical_ChatBot.PNG)](https://github.com/sidhu7777/Medical_ChatBot/blob/main/images/Medical_ChatBot.PNG)
 
 ## License
 
